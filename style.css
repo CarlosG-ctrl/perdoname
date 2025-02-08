@@ -10,7 +10,7 @@ body{
     place-items: center;
     
     width: auto;
-    height: 100pc;
+    height: 100vh;
 }
 
 .card1 {
@@ -24,7 +24,13 @@ body{
     position: relative;
 }
 @media (min-width: 380px) and (max-width: 600px) {
+    .container {
+    display: grid;
+    place-items: center;
     
+    width: auto;
+    height: 60pc;
+}
     .card1 {
         width: 280px;
         height: auto;
