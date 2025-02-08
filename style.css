@@ -8,7 +8,7 @@ body{
 .container {
     display: grid;
     place-items: center;
-    
+    heigth: 100px;
     width: auto;
     
 }
