@@ -23,7 +23,7 @@ body{
     padding: 20px;
     position: relative;
 }
-@media (min-width: 380px) and (max-width: 600px) {
+@media (min-width: 0px) and (max-width: 600px) {
     .container {
     display: grid;
     place-items: center;
