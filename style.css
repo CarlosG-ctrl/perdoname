@@ -11,6 +11,7 @@ body{
     
     width: auto;
     height: 100vh;
+    overflow: hidden;
 }
 
 .card1 {
@@ -27,9 +28,9 @@ body{
     .container {
     display: grid;
     place-items: center;
-    
+    overflow: hidden;
     width: auto;
-    height: 60pc;
+    height: 80pc;
 }
     .card1 {
         width: 280px;
