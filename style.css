@@ -27,7 +27,7 @@ body{
 @media (min-width: 380px) and (max-width: 600px) {
  
     .card1 {
-        width: 380px;
+        width: 980px;
         height: auto;
         border-radius: 30px;
         background: #e0e0e0;
