@@ -27,7 +27,7 @@ body{
     .container {
     display: grid;
     place-items: center;
-    padding: 20px
+    
     width: auto;
     height: 700px;
 }
