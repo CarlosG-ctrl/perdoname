@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 body{
     background-color: #e0e0e0;
-     padding: 10px 30px;
+     padding: 0px 20px;
 }
 .container {
     display: grid;
